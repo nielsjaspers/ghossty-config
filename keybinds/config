@@ -1,0 +1,18 @@
+# Reimplement <MOD>+delete functionality
+keybind = cmd+backspace=text:\x15
+keybind = opt+backspace=text:\x17
+
+# Reload config
+keybind = cmd+r=reload_config
+
+# Open inspector
+keybind = cmd+i=inspector:toggle
+
+## Split pane keybinds ##
+# new splits (horizontal & vertical)
+keybind = cmd+b>b=new_split:down  
+keybind = cmd+b>v=new_split:right
+
+# traverse splits
+keybind = cmd+[=goto_split:previous
+keybind = cmd+]=goto_split:next   
