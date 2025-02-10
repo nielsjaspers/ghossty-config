@@ -14,7 +14,7 @@ window-decoration = true
 window-padding-x = 10
 window-padding-y = 10
 window-padding-balance = true
-window-height = 42
+window-height = 100
 window-width = 140
 
 # font-family = "Liga SFMono Nerd Font"
