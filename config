@@ -9,13 +9,14 @@ background-blur-radius = 15
 
 unfocused-split-opacity = 0.5
 
-macos-titlebar-style = hidden
+macos-titlebar-style = tabs
+# macos-titlebar-style = hidden
 window-decoration = true
 window-padding-x = 10
 window-padding-y = 10
 window-padding-balance = true
-window-height = 100
-window-width = 140
+window-height = 510
+window-width = 1640
 
 # font-family = "Liga SFMono Nerd Font"
 font-family = "GeistMono Nerd Font Mono"
