@@ -1,4 +1,5 @@
 config-file = "./keybinds/config"
+auto-update-channel = tip
 
 title = " "
 
@@ -9,8 +10,8 @@ background-blur-radius = 15
 
 unfocused-split-opacity = 0.5
 
-macos-titlebar-style = tabs
-# macos-titlebar-style = hidden
+# macos-titlebar-style = tabs
+macos-titlebar-style = hidden
 window-decoration = true
 window-padding-x = 10
 window-padding-y = 10
