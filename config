@@ -1,9 +1,8 @@
 config-file = "./keybinds/config"
-auto-update-channel = tip
 
 title = " "
 
-theme = rose-pine
+theme = "Rose Pine"
 background =  #000000
 background-opacity = 0.85
 background-blur-radius = 15
